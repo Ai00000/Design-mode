@@ -1,0 +1,7 @@
+D:\C#Text\Csharp实现设计模式\代理模式\bin\Debug\代理模式.exe.config
+D:\C#Text\Csharp实现设计模式\代理模式\bin\Debug\代理模式.exe
+D:\C#Text\Csharp实现设计模式\代理模式\bin\Debug\代理模式.pdb
+D:\C#Text\Csharp实现设计模式\代理模式\obj\Debug\代理模式-Proxy Pattern-难度3.csprojResolveAssemblyReference.cache
+D:\C#Text\Csharp实现设计模式\代理模式\obj\Debug\代理模式-Proxy Pattern-难度3.csproj.CoreCompileInputs.cache
+D:\C#Text\Csharp实现设计模式\代理模式\obj\Debug\代理模式.exe
+D:\C#Text\Csharp实现设计模式\代理模式\obj\Debug\代理模式.pdb

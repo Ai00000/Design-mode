@@ -1,0 +1,6 @@
+D:\C#Text\Csharp设计模式剩余部分\Csharp设计模式剩余部分\bin\Debug\Csharp设计模式剩余部分.exe
+D:\C#Text\Csharp设计模式剩余部分\Csharp设计模式剩余部分\bin\Debug\Csharp设计模式剩余部分.pdb
+D:\C#Text\Csharp设计模式剩余部分\Csharp设计模式剩余部分\obj\Debug\适配器模式.csprojResolveAssemblyReference.cache
+D:\C#Text\Csharp设计模式剩余部分\Csharp设计模式剩余部分\obj\Debug\适配器模式.csproj.CoreCompileInputs.cache
+D:\C#Text\Csharp设计模式剩余部分\Csharp设计模式剩余部分\obj\Debug\Csharp设计模式剩余部分.exe
+D:\C#Text\Csharp设计模式剩余部分\Csharp设计模式剩余部分\obj\Debug\Csharp设计模式剩余部分.pdb

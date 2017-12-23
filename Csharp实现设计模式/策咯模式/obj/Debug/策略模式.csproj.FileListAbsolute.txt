@@ -1,0 +1,7 @@
+D:\C#Text\Csharp实现设计模式\策咯模式\bin\Debug\策咯模式.exe.config
+D:\C#Text\Csharp实现设计模式\策咯模式\bin\Debug\策咯模式.exe
+D:\C#Text\Csharp实现设计模式\策咯模式\bin\Debug\策咯模式.pdb
+D:\C#Text\Csharp实现设计模式\策咯模式\obj\Debug\策略模式.csprojResolveAssemblyReference.cache
+D:\C#Text\Csharp实现设计模式\策咯模式\obj\Debug\策略模式.csproj.CoreCompileInputs.cache
+D:\C#Text\Csharp实现设计模式\策咯模式\obj\Debug\策咯模式.exe
+D:\C#Text\Csharp实现设计模式\策咯模式\obj\Debug\策咯模式.pdb
